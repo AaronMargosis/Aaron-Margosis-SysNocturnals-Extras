@@ -14,7 +14,7 @@ It's now available again.
 
 [Online documentation about LUA Buglight](https://techcommunity.microsoft.com/t5/windows-blog-archive/lua-buglight-2-3-with-support-for-windows-8-1-and-windows-10/ba-p/701459)
 
-[Download LUA Buglight](https://github.com/AaronMargosis/Aaron-Margosis-SysNocturnals-Tools/releases/download/SysNocturnalsExtras/LuaBuglight.zip)
+[Download LUA Buglight](https://github.com/AaronMargosis/Aaron-Margosis-SysNocturnals-Extras/releases/download/SysNocturnalsExtras/LuaBuglight.zip)
 
 ### App Install Recorder blog post and scripts
 
@@ -29,7 +29,7 @@ but the many screenshots and illustrations are gone, as are the scripts. They're
 (Since I wrote that post, there have been numerous improvements to Procmon that would probably improve this solution, particularly in distinguishing "write" from other
 operations.)
 
-[Download `The Case of the App Install Recorder`](https://github.com/AaronMargosis/Aaron-Margosis-SysNocturnals-Tools/releases/download/SysNocturnalsExtras/The.Case.of.the.App.Install.Recorder.zip)
+[Download `The Case of the App Install Recorder`](https://github.com/AaronMargosis/Aaron-Margosis-SysNocturnals-Extras/releases/download/SysNocturnalsExtras/The.Case.of.the.App.Install.Recorder.zip)
 
 ### IEZoneAnalyzer
 
@@ -40,7 +40,7 @@ less value than it had when I first published it, but I understand that IE's sec
 As with the attachments and other downloadable content from my old blogs, IEZoneAnalyzer has gone missing for a while. It's now
 available here, along with its full documentation (Word doc).
 
-[Download `IEZoneAnalyzer`](https://github.com/AaronMargosis/Aaron-Margosis-SysNocturnals-Tools/releases/download/SysNocturnalsExtras/IEZoneAnalyzer.3.5.0.5.zip)
+[Download `IEZoneAnalyzer`](https://github.com/AaronMargosis/Aaron-Margosis-SysNocturnals-Extras/releases/download/SysNocturnalsExtras/IEZoneAnalyzer.3.5.0.5.zip)
 
 The surviving original blog posts also document its purpose and usage, even with some screenshots:
 * [IEZoneAnalyzer v3](https://learn.microsoft.com/en-us/archive/blogs/fdcc/iezoneanalyzer-v3)
